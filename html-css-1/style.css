@@ -1,0 +1,11 @@
+.container {
+    background-color: rgb(15, 15, 15);
+    width: 400px;
+    height: 600px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+body display: block;
+body {background-color: rgb(43, 41, 41);}
